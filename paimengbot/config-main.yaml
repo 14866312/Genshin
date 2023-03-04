@@ -1,0 +1,18 @@
+db:
+  host: localhost
+  name: paimeng
+  passwd: lhb061229
+  port: 5432
+  type: sqlite
+  user: postgres
+log:
+  date: 30
+  level: info
+nickname: 派蒙
+plugins-always-call: false
+server:
+  address: ws://127.0.0.1:6700/
+  token: ""
+superuser: 14866312
+tmp:
+  maxcount: 1000
